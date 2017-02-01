@@ -17,7 +17,7 @@ objects according to the examples!
       class would be in a file named `unicorn.js`)
     - Be sure to export your classes
 
-## Part 1
+- [x] Part 1 
 
 **filename `tenant.js`**
 
@@ -44,7 +44,7 @@ p1.nickname = "Bud";
 p1.occupation = "Office Drone";
 ```
 
-## Part 2
+-[x] Part 2
 
 A **tenant** should have a `full_name` method that returns a string of 
 their first name, last name and nickname (if they have one).
